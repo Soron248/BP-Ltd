@@ -1,0 +1,13 @@
+ul li {
+  margin: 0 10px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+ul li:hover {
+  color: red;
+}
+ul li:focus {
+  color: red;
+}
